@@ -6,7 +6,7 @@
 
 ## §23-1 d区元素概述
 
-d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\ce{Cu^2+}$ 具有 $3d^9$ 组态，常把铜族元素也作为过渡金属。
+d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\mathrm{Cu^{2+}}$ 具有 $3d^9$ 组态，常把铜族元素也作为过渡金属。
 
 **d 区过渡元素分为：**
 - **第一过渡系**（第四周期 d 区金属）
@@ -54,8 +54,8 @@ d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\ce{Cu^2+}
 
 ### 五、氧化还原稳定性
 
-- 同周期从左至右金属还原性依次减弱：$\ce{Ti^2+}$、$\ce{V^2+}$、$\ce{Cr^2+}$ 都是较强的还原剂
-- 最高含氧酸从左至右氧化性逐渐增强：$\ce{Cr2O7^2-}$、$\ce{HMnO4}$、$\ce{FeO4^2-}$ 是强氧化剂
+- 同周期从左至右金属还原性依次减弱：$\mathrm{Ti^{2+}}$、$\mathrm{V^{2+}}$、$\mathrm{Cr^{2+}}$ 都是较强的还原剂
+- 最高含氧酸从左至右氧化性逐渐增强：$\mathrm{Cr_{2}O_{7}^{2-}}$、$\mathrm{HMnO_{4}}$、$\mathrm{FeO_{4}^{2-}}$ 是强氧化剂
 - 中间氧化态化合物在一定条件下不稳定，具有氧化还原性，有的发生歧化反应
 
 ### 六、配位性
@@ -66,8 +66,8 @@ d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\ce{Cu^2+}
 ### 七、水合离子的颜色和含氧酸根的颜色
 
 - 过渡元素离子在水溶液中常显一定颜色，主要原因之一是电子的 $d$-$d$ 跃迁
-  - 如 $\ce{[Ti(H2O)6]^3+}$ 发生 $d$-$d$ 跃迁吸引蓝色光，显紫色
-- 含氧酸根离子颜色产生的主要原因是**荷移跃迁**（如 $\ce{MnO4-}$）
+  - 如 $\mathrm{[Ti(H_{2}O)_{6}]^{3+}}$ 发生 $d$-$d$ 跃迁吸引蓝色光，显紫色
+- 含氧酸根离子颜色产生的主要原因是**荷移跃迁**（如 $\mathrm{MnO_{4}^{-}}$）
 
 ### 八、磁性及催化性
 
@@ -82,12 +82,12 @@ d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\ce{Cu^2+}
 
 - 1797 年法国化学家沃克兰发现铬
 - 命名 **Chromium** ——"色彩艳丽"
-- 价电子层结构：$\ce{Cr}$ 为 $3d^5 4s^1$，6 个电子可参与成键
+- 价电子层结构：$\mathrm{Cr}$ 为 $3d^5 4s^1$，6 个电子可参与成键
 - 最高氧化态为 +VI，常见氧化态为 **+VI、+III、+II**
 
 **由 Cr 的电极电势可知：**
-1. 酸性溶液中 $\ce{Cr(VI)}$ 具有较强氧化性，可被还原为 $\ce{Cr(III)}$；$\ce{Cr(II)}$ 有强还原性，可被氧化为 $\ce{Cr(III)}$。$\ce{Cr(III)}$ 在酸性溶液中既不易被氧化也不易被还原
-2. 碱性溶液中 $\ce{Cr(VI)}$ 氧化性很弱，$\ce{Cr(III)}$ 易被氧化为 $\ce{Cr(VI)}$
+1. 酸性溶液中 $\mathrm{Cr(VI)}$ 具有较强氧化性，可被还原为 $\mathrm{Cr(III)}$；$\mathrm{Cr(II)}$ 有强还原性，可被氧化为 $\mathrm{Cr(III)}$。$\mathrm{Cr(III)}$ 在酸性溶液中既不易被氧化也不易被还原
+2. 碱性溶液中 $\mathrm{Cr(VI)}$ 氧化性很弱，$\mathrm{Cr(III)}$ 易被氧化为 $\mathrm{Cr(VI)}$
 
 ### 二、单质铬
 
@@ -98,118 +98,118 @@ d 区元素：具有部分填充的 d 壳层电子的元素。由于 $\ce{Cu^2+}
 **化学性质：**
 1. 无保护膜的纯铬能溶于稀盐酸和稀硝酸：
    $$
-   \ce{Cr + 2H+ -> Cr^2+(蓝色) + H2↑}
+   \mathrm{Cr + 2H^{+} \rightarrow Cr^{2+}(蓝色) + H_{2}\uparrow }
    $$
    $$
-   \ce{4Cr^2+ + 4H+ + O2 -> 4Cr^3+(绿色) + 2H2O}
+   \mathrm{4Cr^{2+} + 4H^{+} + O_{2} \rightarrow 4Cr^{3+}(绿色) + 2H_{2}O}
    $$
 2. 铬与浓硫酸反应：
    $$
-   \ce{2Cr + 6H2SO4(热,浓) -> Cr2(SO4)3 + 3SO2↑ + 6H2O}
+   \mathrm{2Cr + 6H_{2}SO_{4}(热,浓) \rightarrow Cr_{2}(SO_{4})_{3} + 3SO_{2}\uparrow + 6H_{2}O}
    $$
-3. 高温下铬能与卤素、S、$\ce{N2}$、C 等直接化合
+3. 高温下铬能与卤素、S、$\mathrm{N_{2}}$、C 等直接化合
 
 ### 三、铬的化合物
 
-#### 1. $\ce{Cr(III)}$ 化合物
+#### 1. $\mathrm{Cr(III)}$ 化合物
 
-##### (1) $\ce{Cr2O3}$（三氧化二铬）和 $\ce{Cr(OH)3}$
+##### (1) $\mathrm{Cr_{2}O_{3}}$（三氧化二铬）和 $\mathrm{Cr(OH)_{3}}$
 
-**$\ce{Cr2O3}$：**
+**$\mathrm{Cr_{2}O_{3}}$：**
 - **制备：**
   $$
-  \ce{4Cr + 2O2 ->[高温] 2Cr2O3}
+  \mathrm{4Cr + 2O_{2} \rightarrow[高温] 2Cr_{2}O_{3}}
   $$
   $$
-  \ce{(NH4)2Cr2O7 ->[△] Cr2O3 + N2↑ + 4H2O}
+  \mathrm{(NH_{4})_{2}Cr_{2}O_{7} \rightarrow[△] Cr_{2}O_{3} + N_{2}\uparrow + 4H_{2}O}
   $$
   $$
-  \ce{4CrO3 ->[△] 2Cr2O3 + 3O2↑}
+  \mathrm{4CrO_{3} \rightarrow[△] 2Cr_{2}O_{3} + 3O_{2}\uparrow }
   $$
-- **性质：** 微溶于水，两性氧化物，呈绿色，与 $\ce{Al2O3}$ 类似
+- **性质：** 微溶于水，两性氧化物，呈绿色，与 $\mathrm{Al_{2}O_{3}}$ 类似
   $$
-  \ce{Cr2O3 + 3H2SO4 -> Cr2(SO4)3 + 3H2O},\quad
-  \ce{Cr2O3 + 2NaOH -> 2NaCrO2 + H2O}
+  \mathrm{Cr_{2}O_{3} + 3H_{2}SO_{4} \rightarrow Cr_{2}(SO_{4})_{3} + 3H_{2}O},\quad
+  \mathrm{Cr_{2}O_{3} + 2NaOH \rightarrow 2NaCrO_{2} + H_{2}O}
   $$
 - **用途：** 铬绿（绿色颜料），可做催化剂
 
-**$\ce{Cr(OH)3}$：**
-- **制备：** $\ce{Cr^3+ + 3OH- -> Cr(OH)3↓(灰蓝色)}$
+**$\mathrm{Cr(OH)_{3}}$：**
+- **制备：** $\mathrm{Cr^{3+} + 3OH^{-} \rightarrow Cr(OH)_{3}\downarrow (灰蓝色)}$
 - **两性：**
   $$
-  \ce{Cr(OH)3 + 3H+ -> Cr^3+ + 3H2O (蓝绿色)}
+  \mathrm{Cr(OH)_{3} + 3H^{+} \rightarrow Cr^{3+} + 3H_{2}O (蓝绿色)}
   $$
   $$
-  \ce{Cr(OH)3 + OH- -> [Cr(OH)4]- (绿色)}
+  \mathrm{Cr(OH)_{3} + OH^{-} \rightarrow [Cr(OH)_{4}]^{-} (绿色)}
   $$
 
 ##### (2) 铬(III)盐和亚铬酸盐
 
-- 碱性溶液中 $\ce{Cr(III)}$ 有较强的还原性：
+- 碱性溶液中 $\mathrm{Cr(III)}$ 有较强的还原性：
   $$
-  \ce{2CrO2- + 3H2O2 + 2OH- -> 2CrO4^2- + 4H2O}
+  \mathrm{2CrO_{2}^{-} + 3H_{2}O_{2} + 2OH^{-} \rightarrow 2CrO_{4}^{2-} + 4H_{2}O}
   $$
-- 酸性溶液中 $\ce{Cr(III)}$ 还原性较弱：
+- 酸性溶液中 $\mathrm{Cr(III)}$ 还原性较弱：
   $$
-  \ce{2Cr^3+ + 2S2O8^2- + 7H2O -> Cr2O7^2- + 6SO4^2- + 14H+}
+  \mathrm{2Cr^{3+} + 2S_{2}O_{8}^{2-} + 7H_{2}O \rightarrow Cr_{2}O_{7}^{2-} + 6SO_{4}^{2-} + 14H^{+}}
   $$
 
 ##### (3) 铬(III)的配合物
 
 | 配离子 | 颜色 |
 |--------|------|
-| $\ce{[Cr(H2O)6]^3+}$ | 紫色 |
-| $\ce{[CrCl(H2O)5]^2+}$ | 浅绿色 |
-| $\ce{[CrCl2(H2O)4]+}$ | 暗绿色 |
-| $\ce{[Cr(NH3)3(H2O)3]^3+}$ | 浅红色 |
-| $\ce{[Cr(NH3)6]^3+}$ | 黄色 |
+| $\mathrm{[Cr(H_{2}O)_{6}]^{3+}}$ | 紫色 |
+| $\mathrm{[CrCl(H_{2}O)_{5}]^{2+}}$ | 浅绿色 |
+| $\mathrm{[CrCl_{2}(H_{2}O)_{4}]^{+}}$ | 暗绿色 |
+| $\mathrm{[Cr(NH_{3})_{3}(H_{2}O)_{3}]^{3+}}$ | 浅红色 |
+| $\mathrm{[Cr(NH_{3})_{6}]^{3+}}$ | 黄色 |
 
-#### 2. $\ce{Cr(VI)}$ 化合物
+#### 2. $\mathrm{Cr(VI)}$ 化合物
 
-##### (1) $\ce{CrO4^2-}$ 和 $\ce{Cr2O7^2-}$ 的相互转化
+##### (1) $\mathrm{CrO_{4}^{2-}}$ 和 $\mathrm{Cr_{2}O_{7}^{2-}}$ 的相互转化
 
 $$
-\ce{2CrO4^2- (黄色) + 2H+ <=> Cr2O7^2- (橙色) + H2O}
+\mathrm{2CrO_{4}^{2-} (黄色) + 2H^{+} \rightleftharpoons Cr_{2}O_{7}^{2-} (橙色) + H_{2}O}
 $$
-- 加酸：平衡右移，以 $\ce{Cr2O7^2-}$ 为主
-- 加碱：平衡左移，以 $\ce{CrO4^2-}$ 为主
-- 加入 $\ce{Ba^2+}$、$\ce{Pb^2+}$、$\ce{Ag+}$ 离子则生成溶解度小的铬酸盐沉淀
+- 加酸：平衡右移，以 $\mathrm{Cr_{2}O_{7}^{2-}}$ 为主
+- 加碱：平衡左移，以 $\mathrm{CrO_{4}^{2-}}$ 为主
+- 加入 $\mathrm{Ba^{2+}}$、$\mathrm{Pb^{2+}}$、$\mathrm{Ag^{+}}$ 离子则生成溶解度小的铬酸盐沉淀
 
-**检验 $\ce{CrO4^2-}$：**
+**检验 $\mathrm{CrO_{4}^{2-}}$：**
 $$
-\ce{Pb^2+ + CrO4^2- -> PbCrO4↓(黄色) (铬黄)}
-$$
-$$
-\ce{2Pb^2+ + Cr2O7^2- + H2O -> 2H+ + 2PbCrO4↓(黄色)}
+\mathrm{Pb^{2+} + CrO_{4}^{2-} \rightarrow PbCrO_{4}\downarrow (黄色) (铬黄)}
 $$
 $$
-\ce{2Ba^2+ + Cr2O7^2- + H2O -> 2H+ + 2BaCrO4↓(黄色)}
+\mathrm{2Pb^{2+} + Cr_{2}O_{7}^{2-} + H_{2}O \rightarrow 2H^{+} + 2PbCrO_{4}\downarrow (黄色)}
 $$
 $$
-\ce{4Ag+ + Cr2O7^2- + H2O -> 2H+ + 2Ag2CrO4↓(砖红色)}
+\mathrm{2Ba^{2+} + Cr_{2}O_{7}^{2-} + H_{2}O \rightarrow 2H^{+} + 2BaCrO_{4}\downarrow (黄色)}
+$$
+$$
+\mathrm{4Ag^{+} + Cr_{2}O_{7}^{2-} + H_{2}O \rightarrow 2H^{+} + 2Ag_{2}CrO_{4}\downarrow (砖红色)}
 $$
 
 ##### (2) 重铬酸盐酸性溶液中的氧化性
 
 $$
 \begin{aligned}
-&\ce{Cr2O7^2- + 8H+ + 3SO3^2- -> 2Cr^3+ + 3SO4^2- + 4H2O} \\
-&\ce{Cr2O7^2- + 6I- + 14H+ -> 2Cr^3+ + 3I2 + 7H2O} \\
-&\ce{Cr2O7^2- + 14H+ + 6Cl- -> 2Cr^3+ + 3Cl2 + 7H2O} \\
-&\ce{Cr2O7^2- + 14H+ + 6Fe^2+ -> 2Cr^3+ + 6Fe^3+ + 7H2O} \\
-&\text{（用于分析化学中测定 $\ce{Fe^2+}$ 含量）}
+&\mathrm{Cr_{2}O_{7}^{2-} + 8H^{+} + 3SO_{3}^{2-} \rightarrow 2Cr^{3+} + 3SO_{4}^{2-} + 4H_{2}O} \\
+&\mathrm{Cr_{2}O_{7}^{2-} + 6I^{-} + 14H^{+} \rightarrow 2Cr^{3+} + 3I_{2} + 7H_{2}O} \\
+&\mathrm{Cr_{2}O_{7}^{2-} + 14H^{+} + 6Cl^{-} \rightarrow 2Cr^{3+} + 3Cl_{2} + 7H_{2}O} \\
+&\mathrm{Cr_{2}O_{7}^{2-} + 14H^{+} + 6Fe^{2+} \rightarrow 2Cr^{3+} + 6Fe^{3+} + 7H_{2}O} \\
+&\text{（用于分析化学中测定 $\mathrm{Fe^{2+}}$ 含量）}
 \end{aligned}
 $$
 
-##### (3) $\ce{CrO3}$（三氧化铬）
+##### (3) $\mathrm{CrO_{3}}$（三氧化铬）
 
 - 强氧化剂，有毒，易溶于水
 
-##### (4) $\ce{CrO2Cl2}$（氯化铬酰）
+##### (4) $\mathrm{CrO_{2}Cl_{2}}$（氯化铬酰）
 
 - 深红色液体，外观似溴——钢铁分析中除铬
 
-##### (5) $\ce{CrO5}$——铬的鉴定
+##### (5) $\mathrm{CrO_{5}}$——铬的鉴定
 
 - 深蓝色（过氧铬酸）
 
@@ -237,107 +237,107 @@ $$
 ### 三、电极电势分析
 
 **由电极电势可知：**
-- 酸性溶液中 $\ce{Mn^3+}$ 和 $\ce{MnO4^2-}$ 均易发生歧化反应：
+- 酸性溶液中 $\mathrm{Mn^{3+}}$ 和 $\mathrm{MnO_{4}^{2-}}$ 均易发生歧化反应：
   $$
-  \ce{2Mn^3+ + 2H2O -> 2Mn^2+ + MnO2↓ + 4H+}
+  \mathrm{2Mn^{3+} + 2H_{2}O \rightarrow 2Mn^{2+} + MnO_{2}\downarrow + 4H^{+}}
   $$
   $$
-  \ce{3MnO4^2- + 4H+ -> 2MnO4- + MnO2↓ + 2H2O}
+  \mathrm{3MnO_{4}^{2-} + 4H^{+} \rightarrow 2MnO_{4}^{-} + MnO_{2}\downarrow + 2H_{2}O}
   $$
-- 酸性溶液中 $\ce{Mn^2+}$ 较稳定，$\ce{MnO4-}$ 和 $\ce{MnO2}$ 有强氧化性
-- 碱性溶液中 $\ce{Mn(OH)2}$ 不稳定，易被空气中氧气氧化为 $\ce{MnO2}$；$\ce{MnO4^2-}$ 也发生歧化但不如酸性完全
+- 酸性溶液中 $\mathrm{Mn^{2+}}$ 较稳定，$\mathrm{MnO_{4}^{-}}$ 和 $\mathrm{MnO_{2}}$ 有强氧化性
+- 碱性溶液中 $\mathrm{Mn(OH)_{2}}$ 不稳定，易被空气中氧气氧化为 $\mathrm{MnO_{2}}$；$\mathrm{MnO_{4}^{2-}}$ 也发生歧化但不如酸性完全
 
 ### 四、锰的重要化合物
 
 #### 1. 锰(II)的化合物
 
-主要化合物：$\ce{MnO}$（绿色）、$\ce{MnS}$（肉色）、卤化物及各种含氧酸盐
-- $\ce{MnCO3}$ 可作白色颜料
-- 带结晶水的 $\ce{Mn(II)}$ 盐为粉红色
+主要化合物：$\mathrm{MnO}$（绿色）、$\mathrm{MnS}$（肉色）、卤化物及各种含氧酸盐
+- $\mathrm{MnCO_{3}}$ 可作白色颜料
+- 带结晶水的 $\mathrm{Mn(II)}$ 盐为粉红色
 - 一般盐的水溶液呈无色
 - 酸性溶液中具有弱的还原性
 
-**鉴定 $\ce{Mn^2+}$：**
+**鉴定 $\mathrm{Mn^{2+}}$：**
 $$
-\ce{2Mn^2+ + 5PbO2 + 4H+ -> 2MnO4- + 5Pb^2+ + 2H2O}
+\mathrm{2Mn^{2+} + 5PbO_{2} + 4H^{+} \rightarrow 2MnO_{4}^{-} + 5Pb^{2+} + 2H_{2}O}
 $$
-利用生成 $\ce{MnO4-}$ 的紫色来鉴定 $\ce{Mn^2+}$。
-注意：$\ce{Mn^2+}$ 浓度要小，用量要少（否则 $\ce{2MnO4- + 3Mn^2+ + 2H2O -> 5MnO2 + 4H+}$）
+利用生成 $\mathrm{MnO_{4}^{-}}$ 的紫色来鉴定 $\mathrm{Mn^{2+}}$。
+注意：$\mathrm{Mn^{2+}}$ 浓度要小，用量要少（否则 $\mathrm{2MnO_{4}^{-} + 3Mn^{2+} + 2H_{2}O \rightarrow 5MnO_{2} + 4H^{+}}$）
 
-在碱性介质中 $\ce{Mn^2+}$ 易被氧化：
+在碱性介质中 $\mathrm{Mn^{2+}}$ 易被氧化：
 $$
-\ce{Mn^2+ + 2OH- -> Mn(OH)2↓(白色胶状)}
+\mathrm{Mn^{2+} + 2OH^{-} \rightarrow Mn(OH)_{2}\downarrow (白色胶状)}
 $$
 $$
-\ce{2Mn(OH)2 + O2 -> MnO(OH)2(棕色)}
+\mathrm{2Mn(OH)_{2} + O_{2} \rightarrow MnO(OH)_{2}(棕色)}
 $$
 
 #### 2. 锰(IV)的化合物
 
-**$\ce{MnO2}$：**
+**$\mathrm{MnO_{2}}$：**
 - 锰最稳定的氧化物
 - 酸性介质中是一种强氧化剂：
   $$
-  \ce{MnO2 + 4HCl -> MnCl2 + Cl2↑ + 2H2O}
+  \mathrm{MnO_{2} + 4HCl \rightarrow MnCl_{2} + Cl_{2}\uparrow + 2H_{2}O}
   $$
   $$
-  \ce{2MnO2 + 2H2SO4(浓) -> 2MnSO4 + O2↑ + 2H2O}
+  \mathrm{2MnO_{2} + 2H_{2}SO_{4}(浓) \rightarrow 2MnSO_{4} + O_{2}\uparrow + 2H_{2}O}
   $$
 - 碱性介质中能被强氧化剂氧化为 +VI 化合物（即具有还原性）：
   $$
-  \ce{3MnO2 + 6KOH + KClO3 -> 3K2MnO4(深绿色) + KCl + 3H2O}
+  \mathrm{3MnO_{2} + 6KOH + KClO_{3} \rightarrow 3K_{2}MnO_{4}(深绿色) + KCl + 3H_{2}O}
   $$
 
 #### 3. 锰(VI)化合物
 
-$\ce{MnO4^2-}$ 以深绿色存在于强碱溶液中（pH > 14.4）。
+$\mathrm{MnO_{4}^{2-}}$ 以深绿色存在于强碱溶液中（pH > 14.4）。
 
 - 在酸性介质中发生歧化反应：
   $$
-  \ce{3MnO4^2- + 4H+ -> 2MnO4- + MnO2 + 2H2O}
+  \mathrm{3MnO_{4}^{2-} + 4H^{+} \rightarrow 2MnO_{4}^{-} + MnO_{2} + 2H_{2}O}
   $$
 - 在中性或弱碱性溶液中也发生歧化（但趋势小）：
   $$
-  \ce{3MnO4^2- + 2H2O -> 2MnO4- + MnO2 + 4OH-}
+  \mathrm{3MnO_{4}^{2-} + 2H_{2}O \rightarrow 2MnO_{4}^{-} + MnO_{2} + 4OH^{-}}
   $$
 
-#### 4. 锰(VII)化合物——高锰酸钾 $\ce{KMnO4}$
+#### 4. 锰(VII)化合物——高锰酸钾 $\mathrm{KMnO_{4}}$
 
 **稳定性：**
 - 受热或放置过久会缓慢分解：
   $$
-  \ce{10KMnO4 -> 3K2MnO4 + 7MnO2 + O2↑ + 2K2O}
+  \mathrm{10KMnO_{4} \rightarrow 3K_{2}MnO_{4} + 7MnO_{2} + O_{2}\uparrow + 2K_{2}O}
   $$
   $$
-  \ce{4MnO4- + 4H+ -> 4MnO2↓ + O2↑ + 2H2O}
+  \mathrm{4MnO_{4}^{-} + 4H^{+} \rightarrow 4MnO_{2}\downarrow + O_{2}\uparrow + 2H_{2}O}
   $$
   $$
-  \ce{4MnO4- + 4OH- -> 4MnO4^2- + O2↑ + 2H2O}
+  \mathrm{4MnO_{4}^{-} + 4OH^{-} \rightarrow 4MnO_{4}^{2-} + O_{2}\uparrow + 2H_{2}O}
   $$
-- **光照分解：** $\ce{4KMnO4 + 2H2O -> 4MnO2↓ + 4KOH + 3O2↑}$（自动催化）
+- **光照分解：** $\mathrm{4KMnO_{4} + 2H_{2}O \rightarrow 4MnO_{2}\downarrow + 4KOH + 3O_{2}\uparrow }$（自动催化）
 
 **高锰酸盐的强氧化性（产物与介质有关）：**
 
 | 介质 | 反应 |
 |------|------|
-| 酸性 | $\ce{2MnO4- + 5SO3^2- + 6H+ -> 2Mn^2+ + 5SO4^2- + 3H2O}$ |
-| 中性 | $\ce{2MnO4- + 3SO3^2- + H2O -> 2MnO2↓ + 3SO4^2- + 2OH-}$ |
-| 碱性 | $\ce{2MnO4- + SO3^2- + 2OH- -> 2MnO4^2- + SO4^2- + H2O}$ |
+| 酸性 | $\mathrm{2MnO_{4}^{-} + 5SO_{3}^{2-} + 6H^{+} \rightarrow 2Mn^{2+} + 5SO_{4}^{2-} + 3H_{2}O}$ |
+| 中性 | $\mathrm{2MnO_{4}^{-} + 3SO_{3}^{2-} + H_{2}O \rightarrow 2MnO_{2}\downarrow + 3SO_{4}^{2-} + 2OH^{-}}$ |
+| 碱性 | $\mathrm{2MnO_{4}^{-} + SO_{3}^{2-} + 2OH^{-} \rightarrow 2MnO_{4}^{2-} + SO_{4}^{2-} + H_{2}O}$ |
 
 **在分析化学中的应用：**
 $$
 \begin{aligned}
-&\ce{MnO4- + 5Fe^2+ + 8H+ -> Mn^2+ + 5Fe^3+ + 4H2O} \\
-&\ce{2MnO4- + 5H2O2 + 6H+ -> 2Mn^2+ + 5O2↑ + 8H2O} \\
-&\ce{2MnO4- + 5C2O4^2- + 16H+ -> 2Mn^2+ + 10CO2↑ + 8H2O}
+&\mathrm{MnO_{4}^{-} + 5Fe^{2+} + 8H^{+} \rightarrow Mn^{2+} + 5Fe^{3+} + 4H_{2}O} \\
+&\mathrm{2MnO_{4}^{-} + 5H_{2}O_{2} + 6H^{+} \rightarrow 2Mn^{2+} + 5O_{2}\uparrow + 8H_{2}O} \\
+&\mathrm{2MnO_{4}^{-} + 5C_{2}O_{4}^{2-} + 16H^{+} \rightarrow 2Mn^{2+} + 10CO_{2}\uparrow + 8H_{2}O}
 \end{aligned}
 $$
 
 **锰的氧化物及其水合氧化物：**
 
-| 氧化物 | $\ce{MnO}$ | $\ce{Mn2O3}$ | $\ce{MnO2}$ | $\ce{MnO3}$ | $\ce{Mn2O7}$ |
+| 氧化物 | $\mathrm{MnO}$ | $\mathrm{Mn_{2}O_{3}}$ | $\mathrm{MnO_{2}}$ | $\mathrm{MnO_{3}}$ | $\mathrm{Mn_{2}O_{7}}$ |
 |--------|------------|--------------|-------------|-------------|--------------|
-| 水合氧化物 | $\ce{Mn(OH)2}$ | $\ce{Mn(OH)3}$ | $\ce{Mn(OH)4}$ | $\ce{H2MnO4}$ | $\ce{HMnO4}$ |
+| 水合氧化物 | $\mathrm{Mn(OH)_{2}}$ | $\mathrm{Mn(OH)_{3}}$ | $\mathrm{Mn(OH)_{4}}$ | $\mathrm{H_{2}MnO_{4}}$ | $\mathrm{HMnO_{4}}$ |
 | 酸碱性 | 碱性 | 弱碱性 | 两性 | 酸性 | 酸性 |
 
 酸性增强，氧化性增强。
@@ -366,8 +366,8 @@ $$
 | 电负性 | 1.83 | 1.88 | 1.91 |
 
 **氧化还原稳定性：**
-- **酸性溶液中：** Fe 以 $\ce{Fe^3+}$ 稳定，$\ce{Fe^2+}$ 有还原性，$\ce{Fe(VI)}$ 有氧化性；Co 以 $\ce{Co(II)}$ 稳定，$\ce{Co(III)}$、$\ce{Co(IV)}$ 有强氧化性；Ni 以 $\ce{Ni(II)}$ 稳定，$\ce{Ni(IV)}$ 有强氧化性
-- **碱性溶液中稳定价态：** $\ce{Fe(III)}$、$\ce{Co(II)}$、$\ce{Co(III)}$、$\ce{Ni(II)}$
+- **酸性溶液中：** Fe 以 $\mathrm{Fe^{3+}}$ 稳定，$\mathrm{Fe^{2+}}$ 有还原性，$\mathrm{Fe(VI)}$ 有氧化性；Co 以 $\mathrm{Co(II)}$ 稳定，$\mathrm{Co(III)}$、$\mathrm{Co(IV)}$ 有强氧化性；Ni 以 $\mathrm{Ni(II)}$ 稳定，$\mathrm{Ni(IV)}$ 有强氧化性
+- **碱性溶液中稳定价态：** $\mathrm{Fe(III)}$、$\mathrm{Co(II)}$、$\mathrm{Co(III)}$、$\mathrm{Ni(II)}$
 
 ### 二、单质性质
 
@@ -380,98 +380,98 @@ $$
 
 #### 1. 氧化物和氢氧化物
 
-**铁的氧化物：** $\ce{FeO}$（黑色，碱性）、$\ce{Fe3O4}$、$\ce{Fe2O3}$（砖红色，两性偏碱）
+**铁的氧化物：** $\mathrm{FeO}$（黑色，碱性）、$\mathrm{Fe_{3}O_{4}}$、$\mathrm{Fe_{2}O_{3}}$（砖红色，两性偏碱）
 
 **氢氧化物：**
 $$
-\ce{Fe^2+ + 2OH- -> Fe(OH)2↓(白色)}
+\mathrm{Fe^{2+} + 2OH^{-} \rightarrow Fe(OH)_{2}\downarrow (白色)}
 $$
 $$
-\ce{Fe^3+ + 3OH- -> Fe(OH)3↓(红棕色)}
+\mathrm{Fe^{3+} + 3OH^{-} \rightarrow Fe(OH)_{3}\downarrow (红棕色)}
 $$
 - 氢氧化物显碱性，但可与浓碱反应：
   $$
-  \ce{Fe(OH)2 + 4OH- -> [Fe(OH)6]^4-},\quad
-  \ce{Fe(OH)3 + 3OH- -> [Fe(OH)6]^3-}
+  \mathrm{Fe(OH)_{2} + 4OH^{-} \rightarrow [Fe(OH)_{6}]^{4-}},\quad
+  \mathrm{Fe(OH)_{3} + 3OH^{-} \rightarrow [Fe(OH)_{6}]^{3-}}
   $$
 - **氢氧化亚铁具有还原性**
 
 #### 2. 铁的重要盐
 
-**$\ce{FeSO4}$（硫酸亚铁，绿矾）：**
+**$\mathrm{FeSO_{4}}$（硫酸亚铁，绿矾）：**
 - 在空气中易被氧化
 - 用于制造蓝黑墨水（鞣酸亚铁和蓝色染料）
-- 无水 $\ce{FeSO4}$ 为白色
+- 无水 $\mathrm{FeSO_{4}}$ 为白色
 
-**$\ce{FeCl3}$（三氯化铁）：**
-- 共价化合物，无水 $\ce{FeCl3}$ 易溶于水和有机溶剂
-- $\ce{Fe^3+}$ 具有氧化性：
+**$\mathrm{FeCl_{3}}$（三氯化铁）：**
+- 共价化合物，无水 $\mathrm{FeCl_{3}}$ 易溶于水和有机溶剂
+- $\mathrm{Fe^{3+}}$ 具有氧化性：
   $$
-  \ce{2Fe^3+ + H2S -> 2Fe^2+ + S + 2H+}
-  $$
-  $$
-  \ce{2Fe^3+ + 2I- -> 2Fe^2+ + I2}
+  \mathrm{2Fe^{3+} + H_{2}S \rightarrow 2Fe^{2+} + S + 2H^{+}}
   $$
   $$
-  \ce{2Fe^3+ + Sn^2+ -> 2Fe^2+ + Sn^4+}
-  $$
-- $\ce{Fe^3+}$ 的水解性：
-  $$
-  \ce{[Fe(H2O)6]^3+ <=> [Fe(H2O)5OH]^2+ + H+}
-  $$
-- $\ce{Fe(III)}$ 的还原性（在强碱中被氧化为高铁酸盐）：
-  $$
-  \ce{2Fe(OH)3 + 3ClO- + 4OH- -> 2FeO4^2-(紫红色) + 3Cl- + 5H2O}
+  \mathrm{2Fe^{3+} + 2I^{-} \rightarrow 2Fe^{2+} + I_{2}}
   $$
   $$
-  \ce{Fe2O3 + 3KNO3 + 4KOH -> 2K2FeO4(紫红色) + 3KNO2 + 2H2O}
+  \mathrm{2Fe^{3+} + Sn^{2+} \rightarrow 2Fe^{2+} + Sn^{4+}}
   $$
-  $\ce{FeO4^2-}$ 在酸性溶液中不稳定：
+- $\mathrm{Fe^{3+}}$ 的水解性：
   $$
-  \ce{4FeO4^2- + 20H+ -> 4Fe^3+ + 3O2↑ + 10H2O}
+  \mathrm{[Fe(H_{2}O)_{6}]^{3+} \rightleftharpoons [Fe(H_{2}O)_{5}OH]^{2+} + H^{+}}
+  $$
+- $\mathrm{Fe(III)}$ 的还原性（在强碱中被氧化为高铁酸盐）：
+  $$
+  \mathrm{2Fe(OH)_{3} + 3ClO^{-} + 4OH^{-} \rightarrow 2FeO_{4}^{2-}(紫红色) + 3Cl^{-} + 5H_{2}O}
+  $$
+  $$
+  \mathrm{Fe_{2}O_{3} + 3KNO_{3} + 4KOH \rightarrow 2K_{2}FeO_{4}(紫红色) + 3KNO_{2} + 2H_{2}O}
+  $$
+  $\mathrm{FeO_{4}^{2-}}$ 在酸性溶液中不稳定：
+  $$
+  \mathrm{4FeO_{4}^{2-} + 20H^{+} \rightarrow 4Fe^{3+} + 3O_{2}\uparrow + 10H_{2}O}
   $$
 
 #### 3. 铁的配合物
 
-$\ce{Fe^2+}$ 和 $\ce{Fe^3+}$ 易形成配位数为 6 的配合物。
+$\mathrm{Fe^{2+}}$ 和 $\mathrm{Fe^{3+}}$ 易形成配位数为 6 的配合物。
 
 **(1) 氨配合物：**
-- $\ce{Fe^2+}$ 难以形成稳定的氨合物
-- $\ce{Fe^3+}$ 强烈水解，加氨时生成 $\ce{Fe(OH)3}$ 沉淀而非氨合物
+- $\mathrm{Fe^{2+}}$ 难以形成稳定的氨合物
+- $\mathrm{Fe^{3+}}$ 强烈水解，加氨时生成 $\mathrm{Fe(OH)_{3}}$ 沉淀而非氨合物
 
-**(2) 硫氰配合物（鉴定 $\ce{Fe^3+}$）：**
+**(2) 硫氰配合物（鉴定 $\mathrm{Fe^{3+}}$）：**
 $$
-\ce{Fe^3+ + n SCN- -> [Fe(NCS)n]^{3-n}\ (血红色)} \quad n = 1 \sim 6
+\mathrm{Fe^{3+} + n SCN^{-} \rightarrow [Fe(NCS)n]^{3-n}\ (血红色)} \quad n = 1 \sim 6
 $$
 
 **(3) 氰配合物：**
-- **黄血盐** $\ce{K4[Fe(CN)6]·3H2O}$：
-  - 受热分解：$\ce{K4[Fe(CN)6] ->[△] 4KCN + FeC2 + N2}$
-  - 具有还原性：$\ce{K4[Fe(CN)6] + Cl2 -> 2KCl + K3[Fe(CN)6]}$（赤血盐）
-  - **特征反应（鉴定的 $\ce{Fe^3+}$）：**
+- **黄血盐** $\mathrm{K_{4}[Fe(CN)_{6}]·3H_{2}O}$：
+  - 受热分解：$\mathrm{K_{4}[Fe(CN)_{6}] \rightarrow[△] 4KCN + FeC_{2} + N_{2}}$
+  - 具有还原性：$\mathrm{K_{4}[Fe(CN)_{6}] + Cl_{2} \rightarrow 2KCl + K_{3}[Fe(CN)_{6}]}$（赤血盐）
+  - **特征反应（鉴定的 $\mathrm{Fe^{3+}}$）：**
     $$
-    \ce{K+ + Fe^3+ + [Fe(CN)6]^4- -> KFe[Fe(CN)6]↓(蓝色) (普鲁氏蓝)}
+    \mathrm{K^{+} + Fe^{3+} + [Fe(CN)_{6}]^{4-} \rightarrow KFe[Fe(CN)_{6}]\downarrow (蓝色) (普鲁氏蓝)}
     $$
-  - 鉴定 $\ce{Cu^2+}$：
+  - 鉴定 $\mathrm{Cu^{2+}}$：
     $$
-    \ce{Cu^2+ + [Fe(CN)6]^4- -> Cu2[Fe(CN)6]↓(棕色)}
+    \mathrm{Cu^{2+} + [Fe(CN)_{6}]^{4-} \rightarrow Cu_{2}[Fe(CN)_{6}]\downarrow (棕色)}
     $$
 
-- **赤血盐** $\ce{K3[Fe(CN)6]}$：
-  - 具有氧化性：$\ce{4K3[Fe(CN)6] + 4KOH -> 4K4[Fe(CN)6] + O2↑ + 2H2O}$
-  - 水解性：$\ce{K3[Fe(CN)6] + 3H2O -> Fe(OH)3↓ + 3KCN + 3HCN}$
-  - **特征反应（鉴定 $\ce{Fe^2+}$）：**
+- **赤血盐** $\mathrm{K_{3}[Fe(CN)_{6}]}$：
+  - 具有氧化性：$\mathrm{4K_{3}[Fe(CN)_{6}] + 4KOH \rightarrow 4K_{4}[Fe(CN)_{6}] + O_{2}\uparrow + 2H_{2}O}$
+  - 水解性：$\mathrm{K_{3}[Fe(CN)_{6}] + 3H_{2}O \rightarrow Fe(OH)_{3}\downarrow + 3KCN + 3HCN}$
+  - **特征反应（鉴定 $\mathrm{Fe^{2+}}$）：**
     $$
-    \ce{K+ + Fe^2+ + [Fe(CN)6]^3- -> KFe[Fe(CN)6]↓(蓝色) (滕氏蓝)}
+    \mathrm{K^{+} + Fe^{2+} + [Fe(CN)_{6}]^{3-} \rightarrow KFe[Fe(CN)_{6}]\downarrow (蓝色) (滕氏蓝)}
     $$
 
 - **比较：** 赤血盐溶解度比黄血盐大；黄血盐不易水解，赤血盐毒性大
 
 **(4) 铁的卤离子配合物：**
 $$
-\ce{Fe^3+ + 6F- -> [FeF6]^3-(无色)}
+\mathrm{Fe^{3+} + 6F^{-} \rightarrow [FeF_{6}]^{3-}(无色)}
 $$
-$\ce{[FeF6]^3-}$ 在分析化学中作掩蔽剂。$\ce{Fe^3+}$ 与卤离子配合物的稳定性按 $\ce{F}$ 到 $\ce{Br}$ 顺序显著减小，没有 $\ce{I-}$ 的配合物。
+$\mathrm{[FeF_{6}]^{3-}}$ 在分析化学中作掩蔽剂。$\mathrm{Fe^{3+}}$ 与卤离子配合物的稳定性按 $\mathrm{F}$ 到 $\mathrm{Br}$ 顺序显著减小，没有 $\mathrm{I^{-}}$ 的配合物。
 
 ### 四、钴和镍
 
@@ -479,72 +479,72 @@ $\ce{[FeF6]^3-}$ 在分析化学中作掩蔽剂。$\ce{Fe^3+}$ 与卤离子配�
 
 | 氧化物 | 颜色 | 酸碱性 |
 |--------|------|--------|
-| $\ce{CoO}$ | 灰绿 | 碱性 |
-| $\ce{NiO}$ | 暗绿 | 碱性 |
-| $\ce{Co2O3}$ | 黑 | 碱性 |
-| $\ce{Ni2O3}$ | 黑 | 碱性 |
+| $\mathrm{CoO}$ | 灰绿 | 碱性 |
+| $\mathrm{NiO}$ | 暗绿 | 碱性 |
+| $\mathrm{Co_{2}O_{3}}$ | 黑 | 碱性 |
+| $\mathrm{Ni_{2}O_{3}}$ | 黑 | 碱性 |
 
-$\ce{Co2O3}$ 和 $\ce{Ni2O3}$ 具有强氧化性：
+$\mathrm{Co_{2}O_{3}}$ 和 $\mathrm{Ni_{2}O_{3}}$ 具有强氧化性：
 $$
 \begin{aligned}
-&\ce{Fe2O3 + 6HCl -> 2FeCl3 + 3H2O} \quad \text{（中和反应）} \\
-&\ce{Co2O3 + 6HCl -> 2CoCl2 + Cl2↑ + 3H2O} \quad \text{（氧化还原）} \\
-&\ce{Ni2O3 + 6HCl -> 2NiCl2 + Cl2↑ + 3H2O} \quad \text{（氧化还原）}
+&\mathrm{Fe_{2}O_{3} + 6HCl \rightarrow 2FeCl_{3} + 3H_{2}O} \quad \text{（中和反应）} \\
+&\mathrm{Co_{2}O_{3} + 6HCl \rightarrow 2CoCl_{2} + Cl_{2}\uparrow + 3H_{2}O} \quad \text{（氧化还原）} \\
+&\mathrm{Ni_{2}O_{3} + 6HCl \rightarrow 2NiCl_{2} + Cl_{2}\uparrow + 3H_{2}O} \quad \text{（氧化还原）}
 \end{aligned}
 $$
 
 **氢氧化物：**
 $$
-\ce{Co^2+ + 2OH- -> Co(OH)2↓(粉红/桃红/蓝)}
+\mathrm{Co^{2+} + 2OH^{-} \rightarrow Co(OH)_{2}\downarrow (粉红/桃红/蓝)}
 $$
 $$
-\ce{Ni^2+ + 2OH- -> Ni(OH)2↓(绿色)}
+\mathrm{Ni^{2+} + 2OH^{-} \rightarrow Ni(OH)_{2}\downarrow (绿色)}
 $$
 
-- $\ce{Co(OH)2}$ 有一定还原性：$\ce{2Co(OH)2 + O2 -> 2CoO(OH)↓(棕黑色)}$
-- $\ce{Ni(OH)2}$ 不能被空气中的氧氧化，只能在强碱中用强氧化剂氧化：
+- $\mathrm{Co(OH)_{2}}$ 有一定还原性：$\mathrm{2Co(OH)_{2} + O_{2} \rightarrow 2CoO(OH)\downarrow (棕黑色)}$
+- $\mathrm{Ni(OH)_{2}}$ 不能被空气中的氧氧化，只能在强碱中用强氧化剂氧化：
   $$
-  \ce{2Ni(OH)2 + Br2 + 2NaOH -> 2NiO(OH)↓ + 2NaBr}
+  \mathrm{2Ni(OH)_{2} + Br_{2} + 2NaOH \rightarrow 2NiO(OH)\downarrow + 2NaBr}
   $$
 
 **铁系元素氢氧化物性质归纳：**
-还原性：$\ce{Fe(OH)2 > Co(OH)2 > Ni(OH)2}$
-氧化性：$\ce{Fe(OH)3 < Co(OH)3 < Ni(OH)3}$
+还原性：$\mathrm{Fe(OH)_{2} > Co(OH)_{2} > Ni(OH)_{2}}$
+氧化性：$\mathrm{Fe(OH)_{3} < Co(OH)_{3} < Ni(OH)_{3}}$
 
 #### 2. 钴和镍的主要盐类
 
 - 硫酸盐、卤化物
-- $\ce{NiCl2}$ 在乙醚或丙酮中的溶解度比 $\ce{CoCl2}$ 小的多，可利用这一性质分离钴和镍
+- $\mathrm{NiCl_{2}}$ 在乙醚或丙酮中的溶解度比 $\mathrm{CoCl_{2}}$ 小的多，可利用这一性质分离钴和镍
 
 #### 3. 钴和镍的重要配合物
 
 **(1) 氨配合物：**
 $$
-\ce{Co^2+ + 6NH3 -> [Co(NH3)6]^2+(土黄色)}
+\mathrm{Co^{2+} + 6NH_{3} \rightarrow [Co(NH_{3})_{6}]^{2+}(土黄色)}
 $$
 $$
-\ce{4[Co(NH3)6]^2+ + O2 + 2H2O -> 4[Co(NH3)6]^3+(红褐色) + 4OH-}
+\mathrm{4[Co(NH_{3})_{6}]^{2+} + O_{2} + 2H_{2}O \rightarrow 4[Co(NH_{3})_{6}]^{3+}(红褐色) + 4OH^{-}}
 $$
 $$
-\ce{Ni^2+ + 6NH3 -> [Ni(NH3)6]^2+(蓝紫色)}
+\mathrm{Ni^{2+} + 6NH_{3} \rightarrow [Ni(NH_{3})_{6}]^{2+}(蓝紫色)}
 $$
 
-**电极电势对比（说明配位作用稳定了 $\ce{Co(III)}$）：**
+**电极电势对比（说明配位作用稳定了 $\mathrm{Co(III)}$）：**
 $$
 \begin{aligned}
-&\ce{[Co(H2O)6]^3+ + e- <=> [Co(H2O)6]^2+} \quad \varphi^\theta = 1.84\ \text{V} \\
-&\ce{[Co(NH3)6]^3+ + e- <=> [Co(NH3)6]^2+} \quad \varphi^\theta = 0.1\ \text{V}
+&\mathrm{[Co(H_{2}O)_{6}]^{3+} + e^{-} \rightleftharpoons [Co(H_{2}O)_{6}]^{2+}} \quad \varphi^\theta = 1.84\ \text{V} \\
+&\mathrm{[Co(NH_{3})_{6}]^{3+} + e^{-} \rightleftharpoons [Co(NH_{3})_{6}]^{2+}} \quad \varphi^\theta = 0.1\ \text{V}
 \end{aligned}
 $$
 
-**(2) 硫氰配合物（鉴定 $\ce{Co^2+}$）：**
+**(2) 硫氰配合物（鉴定 $\mathrm{Co^{2+}}$）：**
 $$
-\ce{Co^2+ + 4SCN- -> [Co(NCS)4]^2-(蓝色)}
+\mathrm{Co^{2+} + 4SCN^{-} \rightarrow [Co(NCS)_{4}]^{2-}(蓝色)}
 $$
-注意：该配合物在水溶液中不稳定，用水稀释时变为粉红色的 $\ce{[Co(H2O)6]^2+}$。检测时使用浓 $\ce{NH4SCN}$ 溶液，并用丙酮或戊醚萃取。
+注意：该配合物在水溶液中不稳定，用水稀释时变为粉红色的 $\mathrm{[Co(H_{2}O)_{6}]^{2+}}$。检测时使用浓 $\mathrm{NH_{4}SCN}$ 溶液，并用丙酮或戊醚萃取。
 
-**(3) $\ce{Ni^2+}$ 的鉴定（丁二酮肟法）：**
-丁二酮肟为一有机弱酸，在中性、稀 $\ce{HAc}$ 和氨溶液中可与 $\ce{Ni^2+}$ 反应生成桃红色沉淀（丁二酮肟合镍）。
+**(3) $\mathrm{Ni^{2+}}$ 的鉴定（丁二酮肟法）：**
+丁二酮肟为一有机弱酸，在中性、稀 $\mathrm{HAc}$ 和氨溶液中可与 $\mathrm{Ni^{2+}}$ 反应生成桃红色沉淀（丁二酮肟合镍）。
 
 ---
 
@@ -555,18 +555,18 @@ $$
 3. 第一过渡系元素氧化态变化规律：从左到右先升高后降低，同族从上到下高氧化态稳定
 4. 最高氧化态氧化物的酸碱性变化：从左到右碱性减弱酸性增强
 5. 第一过渡系水合离子的颜色来源：$d$-$d$ 跃迁；含氧酸根颜色来源：荷移跃迁
-6. $\ce{Cr}$ 的价电子结构 ($3d^5 4s^1$) 及常见氧化态 (+VI、+III、+II)
-7. $\ce{Cr(III)}$ 的 $\ce{Cr2O3}$ 和 $\ce{Cr(OH)3}$ 的两性
-8. $\ce{Cr(VI)}$ 的 $\ce{CrO4^2-}$ 与 $\ce{Cr2O7^2-}$ 的酸碱平衡转化及鉴定方法
-9. $\ce{Cr2O7^2-}$ 在酸性介质中的强氧化性（用于测 $\ce{Fe^2+}$）
+6. $\mathrm{Cr}$ 的价电子结构 ($3d^5 4s^1$) 及常见氧化态 (+VI、+III、+II)
+7. $\mathrm{Cr(III)}$ 的 $\mathrm{Cr_{2}O_{3}}$ 和 $\mathrm{Cr(OH)_{3}}$ 的两性
+8. $\mathrm{Cr(VI)}$ 的 $\mathrm{CrO_{4}^{2-}}$ 与 $\mathrm{Cr_{2}O_{7}^{2-}}$ 的酸碱平衡转化及鉴定方法
+9. $\mathrm{Cr_{2}O_{7}^{2-}}$ 在酸性介质中的强氧化性（用于测 $\mathrm{Fe^{2+}}$）
 10. Mn 的价电子结构 ($3d^5 4s^2$) 及多种氧化态
-11. $\ce{Mn^2+}$ 的稳定性与鉴定（$\ce{PbO2}$ 氧化法）
-12. $\ce{MnO2}$ 的氧化性（制备 $\ce{Cl2}$）和还原性（制备 $\ce{K2MnO4}$）
-13. $\ce{MnO4^2-}$ 的歧化反应
-14. $\ce{KMnO4}$ 的强氧化性（产物随介质不同而不同）
+11. $\mathrm{Mn^{2+}}$ 的稳定性与鉴定（$\mathrm{PbO_{2}}$ 氧化法）
+12. $\mathrm{MnO_{2}}$ 的氧化性（制备 $\mathrm{Cl_{2}}$）和还原性（制备 $\mathrm{K_{2}MnO_{4}}$）
+13. $\mathrm{MnO_{4}^{2-}}$ 的歧化反应
+14. $\mathrm{KMnO_{4}}$ 的强氧化性（产物随介质不同而不同）
 15. 铁系元素（Fe、Co、Ni）的基本性质和氧化还原稳定性规律
-16. $\ce{Fe(OH)2}$ 的还原性，$\ce{Fe^3+}$ 的氧化性和水解性
-17. $\ce{FeO4^2-}$（高铁酸盐）的制备与性质
-18. 普鲁氏蓝与滕氏蓝反应（鉴定 $\ce{Fe^3+}$ 和 $\ce{Fe^2+}$）
-19. $\ce{Co^2+}$ 的硫氰配合物鉴定法，$\ce{Ni^2+}$ 的丁二酮肟鉴定法
-20. 配位作用对 $\ce{Co(III)/Co(II)}$ 电极电势的显著影响（$\ce{NH3}$ 配位使 $\ce{Co(III)}$ 稳定化）
+16. $\mathrm{Fe(OH)_{2}}$ 的还原性，$\mathrm{Fe^{3+}}$ 的氧化性和水解性
+17. $\mathrm{FeO_{4}^{2-}}$（高铁酸盐）的制备与性质
+18. 普鲁氏蓝与滕氏蓝反应（鉴定 $\mathrm{Fe^{3+}}$ 和 $\mathrm{Fe^{2+}}$）
+19. $\mathrm{Co^{2+}}$ 的硫氰配合物鉴定法，$\mathrm{Ni^{2+}}$ 的丁二酮肟鉴定法
+20. 配位作用对 $\mathrm{Co(III)/Co(II)}$ 电极电势的显著影响（$\mathrm{NH_{3}}$ 配位使 $\mathrm{Co(III)}$ 稳定化）
