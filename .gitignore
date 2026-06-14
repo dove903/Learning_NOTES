@@ -1,0 +1,12 @@
+# Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# LaTeX
+*.aux *.bbl *.blg *.log *.out *.toc *.synctex.gz *.bcf *.run.xml *.fls
+
+# System
+Thumbs.db
+.DS_Store
